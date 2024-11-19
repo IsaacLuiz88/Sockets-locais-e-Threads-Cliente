@@ -1,0 +1,1 @@
+Código em Python para um cliente local que se comunica com um servidor via sockets. O cliente envia um identificador único ao conectar-se e permite o envio contínuo de mensagens. Exemplo prático de interação cliente-servidor em uma rede local, com foco na simplicidade e interatividade
